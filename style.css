@@ -1,0 +1,12 @@
+body {
+  background: #000;
+  overflow: scroll;
+}
+#container {
+  position: fixed;
+  left: 50%;
+  top: 20%;
+}
+#container {
+  transform: translate(-50%);
+}
